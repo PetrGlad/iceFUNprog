@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS += "-Wall"
+CFLAGS += "-Wall" "-g"
 OUTPUT ?= iceFUNprog
 PREFIX ?= /usr/local
 
